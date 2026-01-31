@@ -19,7 +19,7 @@ env/
 Thumbs.db
 
 # OpenCode SDK (Local Dependency)
-opencode-sdk-python/
+# opencode-sdk-python/
 
 # IDE/Editor Settings
 .vscode/
