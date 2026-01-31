@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+env/
+
+# Environment Variables (Secrets)
+.env
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# OpenCode SDK (Local Dependency)
+opencode-sdk-python/
+
+# IDE/Editor Settings
+.vscode/
+.idea/
+
+# Sisyphus/Agent Logs
+.sisyphus/

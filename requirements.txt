@@ -1,0 +1,5 @@
+discord.py
+python-dotenv
+pytest
+pytest-asyncio
+./opencode-sdk-python
